@@ -9,6 +9,7 @@ that helps NGO teams track projects, beneficiaries, budgets and outcomes in the 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
@@ -17,6 +18,10 @@ that helps NGO teams track projects, beneficiaries, budgets and outcomes in the 
 
 ### 🚀 What I'm working on
 
+- **[Village 360](https://github.com/tpkr96/village-360)**: a district development strategy
+  game. Develop three Telangana villages in six months with ₹10 lakh, balancing impact, cost,
+  risk and sustainability through floods, heat waves and community disputes.
+  **[▶ Play it in your browser](https://tpkr96.github.io/village-360/)** *(HTML · CSS · JavaScript)*
 - **[Village Vision](https://github.com/tpkr96/village-vision)**: an educational strategy game
   that teaches the 11 phases of a Comprehensive Community Development Program, from village
   entry to sustainability. *(Next.js · Phaser · FastAPI)*
